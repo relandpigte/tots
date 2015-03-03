@@ -1,0 +1,41 @@
+body{width:expression(document.documentElement.clientWidth < 990 ? "990px" : "auto");}
+.png{
+behavior: expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",
+this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",
+this.src = "images/transparent.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),
+this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",
+this.runtimeStyle.backgroundImage = "none")),this.pngSet=true)
+);
+}
+.logo a{
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/logo.png', sizingmethod='crop');
+}
+.flash-holder{
+	background:url(none.gif);
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-flash-holder.png', sizingmethod='crop');
+}
+.blog .image-holder{
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-image-holder.png', sizingmethod='crop');
+}
+.btn-buy span{
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/btn-buy.png', sizingmethod='crop');
+}
+.box ul li{
+	position: static;
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-image-holder.png', sizingmethod='crop');
+}
+.box ul li a{
+	position: relative;
+	zoom:1;
+}
+.box .image-holder{
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-image-holder-big.png', sizingmethod='crop');
+}
+.content-nav ul li{ 
+	background-image: expression( (this===this.parentNode.childNodes[0]) ? "none" : "auto");
+}
