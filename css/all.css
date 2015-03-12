@@ -633,10 +633,15 @@ ul.slideset li.active {
 .products-box {
 	width:98px;
 	background:url(../images/bg-product-box.png) no-repeat;
-	font-size:15px;
+	font-size:14px;
 	line-height:17px;
 	padding:12px 12px 7px;
 }
+.products-box._13px { font-size: 13px; }
+.products-box._12px { font-size: 12px; }
+.products-box._11px { font-size: 11px; }
+.products-box._10px { font-size: 10px; }
+.products-box._9px { font-size: 9px; }
 /* products-bottom */
 .products-bottom {
 	width:122px;
