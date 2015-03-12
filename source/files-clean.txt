@@ -1,21 +1,21 @@
 ----------------------------------------------------------------------------------
 full_head_mask
 ----------------------------------------------------------------------------------
-alien_pilot_full_head_halloween_mask.html ****
-american_horror_story_bloody_face_mask.html *
-american_horror_story_pepper_mask.html ****
-american_horror_story_twisty_the_clown_mask.html ****
-american_horror_story_twisty_the_clown_mouth_attachment.html ****
-costume_full_head_halloween_mask.html *
-an_american_werewolf_in_london_bald_demon_mask.html *
-an_american_werewolf_in_london_the_werewolf_mask.html *
-an_american_werewolf_in_london_warmonger_mask.html *
-an_american_werewolf_in_london_werewolf_demon_mask.html *
-behind_the_mask_the_rise_of_leslie_vernon_leslie_vernon_mask.html *
-clash_of_the_titans_1981_calibus_mask.html *
-corpse_bride_emily_mask_comes_with_veil_eye_lashes_and_dread_lock_hair.html *
-corpse_bride_emily_mask_standard.html *
-corpse_bride_victor_mask.html *
+alien_pilot_full_head_halloween_mask.html
+american_horror_story_bloody_face_mask.html
+american_horror_story_pepper_mask.html
+american_horror_story_twisty_the_clown_mask.html
+american_horror_story_twisty_the_clown_mouth_attachment.html
+costume_full_head_halloween_mask.html
+an_american_werewolf_in_london_bald_demon_mask.html
+an_american_werewolf_in_london_the_werewolf_mask.html
+an_american_werewolf_in_london_warmonger_mask.html
+an_american_werewolf_in_london_werewolf_demon_mask.html
+behind_the_mask_the_rise_of_leslie_vernon_leslie_vernon_mask.html
+clash_of_the_titans_1981_calibus_mask.html
+corpse_bride_emily_mask_comes_with_veil_eye_lashes_and_dread_lock_hair.html
+corpse_bride_emily_mask_standard.html
+corpse_bride_victor_mask.html
 daniel_horne_collection_atomic_alien_brainiac.html
 daniel_horne_collection_backwoods_billy.html
 daniel_horne_collection_goggle_zombie.html
@@ -60,63 +60,63 @@ rotting_pumpkin.html
 saw_reverse_bear_trap_full_head_mask.html
 the_devils_rejects_otis_mask.html
 the_haunted_world_of_el_super_beasto_el_super_beasto_mask.html
-titan_find_thanatoid.html ****
-toxictoons_gluten_freak_version_2.html *
-trick_r_treat_sam_burlap_full_head_mask.html *
-trick_r_treat_sam_unmasked_full_head_mask.html *
-walking_dead_beard_walker_mask.html ****
-walking_dead_charred_walker_mask.html *
-walking_dead_merle_walker_mask.html ****
+titan_find_thanatoid.html
+toxictoons_gluten_freak_version_2.html
+trick_r_treat_sam_burlap_full_head_mask.html
+trick_r_treat_sam_unmasked_full_head_mask.html
+walking_dead_beard_walker_mask.html
+walking_dead_charred_walker_mask.html
+walking_dead_merle_walker_mask.html
 
 
 ----------------------------------------------------------------------------------
 face_mask
 ----------------------------------------------------------------------------------
-old_clown_face_mask.html ****
-old_man_face_mask.html ****
+old_clown_face_mask.html
+old_man_face_mask.html
 
 
 ----------------------------------------------------------------------------------
 appliances
 ----------------------------------------------------------------------------------
-rob_zombie_scars_appliances.html *
-rocky_rocky_balboa_appliances.html *
-walking_dead_large_walker_decaying_appliance.html *
-walking_dead_large_walker_gash_appliance.html *
-walking_dead_medium_walker_decaying_appliance.html *
-walking_dead_walker_compound_fracture_appliance.html *
-walking_dead_walker_large_bites_appliance.html *
-walking_dead_walker_rot_appliance.html *
-walking_dead_walker_wound_assortment_pack_appliances.html *
+rob_zombie_scars_appliances.html
+rocky_rocky_balboa_appliances.html
+walking_dead_large_walker_decaying_appliance.html
+walking_dead_large_walker_gash_appliance.html
+walking_dead_medium_walker_decaying_appliance.html
+walking_dead_walker_compound_fracture_appliance.html
+walking_dead_walker_large_bites_appliance.html
+walking_dead_walker_rot_appliance.html
+walking_dead_walker_wound_assortment_pack_appliances.html
 
 
 ----------------------------------------------------------------------------------
 costumes
 ----------------------------------------------------------------------------------
-american_horror_story_twisty_the_clown_costume.html ****
-house_of_1000_corpes_captain_spaulding_costume.html ****
-lords_of_salem_heidi_costume.html ****
-rob_zombie_living_dead_girl_costume.html ****
-saw_billy_puppet_costume.html ****
-trick_r_treat_sam_costume.html ****
+american_horror_story_twisty_the_clown_costume.html
+house_of_1000_corpes_captain_spaulding_costume.html
+lords_of_salem_heidi_costume.html
+rob_zombie_living_dead_girl_costume.html
+saw_billy_puppet_costume.html
+trick_r_treat_sam_costume.html
 
 
 ----------------------------------------------------------------------------------
 makeup
 ----------------------------------------------------------------------------------
-house_of_1000_corpes_captain_spaulding_makeup_kit.html ****
-lords_of_salem_heidi_makeup_kit.html ****
+house_of_1000_corpes_captain_spaulding_makeup_kit.html
+lords_of_salem_heidi_makeup_kit.html
 
 
 ----------------------------------------------------------------------------------
 props
 ----------------------------------------------------------------------------------
-american_horror_story_pepper_static_prop.html ****
-american_horror_story_twisty_the_clown_static_prop.html ****
-behind_the_mask_the_rise_of_leslie_vernon_sickle_prop.html ****
-dead_head_zombie_prop.html ****
-garbage_pail_kids_glowing_amber_prop.html ****
-trick_r_treat_sam_bitten_lillipop_prop.html ****
-trick_r_treat_sam_unbitten_lillipop_prop.html ****
-walking_dead_hersal_servered_head_prop.html ****
-evil_dead_2_kandarian_dagger.html ****
+american_horror_story_pepper_static_prop.html
+american_horror_story_twisty_the_clown_static_prop.html
+behind_the_mask_the_rise_of_leslie_vernon_sickle_prop.html
+dead_head_zombie_prop.html
+garbage_pail_kids_glowing_amber_prop.html
+trick_r_treat_sam_bitten_lillipop_prop.html
+trick_r_treat_sam_unbitten_lillipop_prop.html
+walking_dead_hersal_servered_head_prop.html
+evil_dead_2_kandarian_dagger.html
